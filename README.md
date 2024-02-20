@@ -18,7 +18,7 @@ This game is a matching game where the user receives a word related to OOP.  The
   - Question topics 
 
 
-- [*] Scoring System [Joe] & [Tony] 
+- [x] Scoring System [Joe] & [Tony] 
   - 3 stars 
   - Level Management 
   - Level Up 
