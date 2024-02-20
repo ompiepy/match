@@ -9,7 +9,7 @@ This game is a matching game where the user receives a word related to OOP.  The
 - Question Menu, Answers 
 - Ending menu screen 
 
-- [ ] Questions [Kirtoria & Isaac]  
+- [X] Questions [Kirtoria & Isaac]  
 - Answers according to difficulty/topics 
 - 3 levels (easy, medium, hard), 9 questions per level 
 - hints 
