@@ -24,7 +24,7 @@ This game is a matching game where the user receives a word related to OOP.  The
   - Level Up 
   - Level Down
 
-- [ ] State management [Om]
+- [*] State management [Om]
   - Save progress to restore game point 
 
 ### Language: Java
