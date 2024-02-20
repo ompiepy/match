@@ -18,7 +18,7 @@ Features
   - Question topics 
 
 
-Scoring System [Joe] & [Tony] 
+[] Scoring System [Joe] & [Tony] 
   - 3 stars 
   - Level Management 
   - Level Up 
