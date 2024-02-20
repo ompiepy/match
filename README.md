@@ -3,7 +3,7 @@ This game is a matching game where the user receives a word related to OOP.  The
 
 ## Features
 
-- [ ] UI [Will] 
+- [X] UI [Will] 
 - Welcome Screen – nickname 
 - stars earned  
 - Question Menu, Answers 
