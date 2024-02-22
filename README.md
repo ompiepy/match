@@ -29,4 +29,5 @@ This game is a matching game where the user receives a word related to OOP.  The
 
 ### Language: Java
 
-### For CSCE 306
+### For CSCE 306 
+(OO Software Development)
